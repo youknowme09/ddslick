@@ -1,0 +1,21 @@
+{
+  "name": "ngddslick",
+  "version": "1.0.0",
+  "homepage": "https://github.com/youknowme09/ddslick",
+  "authors": [
+    "ansonliu <ansonliu@iii.org.tw>"
+  ],
+  "description": "angular ddslick",
+  "main": [
+    "jquery.ddslick.js",
+    "ng.ddslick.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
