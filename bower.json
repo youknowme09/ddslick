@@ -10,6 +10,9 @@
     "jquery.ddslick.js",
     "ng.ddslick.js"
   ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  },
   "license": "MIT",
   "ignore": [
     "**/.*",
