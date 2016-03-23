@@ -1,17 +1,18 @@
 {
   "name": "ngddslick",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/youknowme09/ddslick",
   "authors": [
     "ansonliu <ansonliu@iii.org.tw>"
   ],
-  "description": "angular ddslick",
+  "description": "angular ddslick directive",
   "main": [
     "jquery.ddslick.js",
     "ng.ddslick.js"
   ],
   "dependencies": {
-    "jquery": "~2.1.1"
+    "jquery": "~2.1.1",
+    "angular":"~1.4.0"
   },
   "license": "MIT",
   "ignore": [
